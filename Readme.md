@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on MERN Stack Development<br>Also a Software Developer having experience of multiple <br>programming languages.
+Currently working on MERN Stack Development. Also a Software Developer having experience of multiple programming languages.
 
 
 ## 🌐 Socials:
